@@ -57,7 +57,7 @@ const Main = () => {
 
   const predefinedPrompts = [
     {
-      text: "Suggest beautiful places to see on an upcoming road trip",
+      text: "Additya sharma",
       icon: assets.roadtrip,
       gradient: "from-blue-500 to-purple-600"
     },
